@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "superrichsoil:block/super_rich_soil"
+  }
+}

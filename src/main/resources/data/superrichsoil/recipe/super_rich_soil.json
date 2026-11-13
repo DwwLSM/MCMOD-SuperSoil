@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "farmersdelight:rich_soil"
+    },
+    {
+      "item": "farmersdelight:rich_soil"
+    },
+    {
+      "item": "farmersdelight:rich_soil"
+    },
+    {
+      "item": "farmersdelight:rich_soil"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    }
+  ],
+  "result": {
+    "id": "superrichsoil:super_rich_soil",
+    "count": 1
+  }
+}

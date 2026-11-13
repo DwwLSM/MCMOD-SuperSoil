@@ -1,0 +1,35 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="superrichsoil"
+version="1.0.0"
+displayName="Super Rich Soil"
+description='''
+Adds dark, extra-fertile Farmer's Delight soil and farmland.
+'''
+
+[[mixins]]
+config="superrichsoil.mixins.json"
+
+[[dependencies.superrichsoil]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.219,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.superrichsoil]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.superrichsoil]]
+modId="farmersdelight"
+type="required"
+versionRange="[1.2.9,)"
+ordering="AFTER"
+side="BOTH"

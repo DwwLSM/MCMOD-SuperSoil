@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "superrichsoil:block/super_rich_soil" },
+      { "model": "superrichsoil:block/super_rich_soil", "y": 90 },
+      { "model": "superrichsoil:block/super_rich_soil", "y": 180 },
+      { "model": "superrichsoil:block/super_rich_soil", "y": 270 }
+    ]
+  }
+}
